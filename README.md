@@ -26,4 +26,4 @@ streamlit run app.py
 
 ## Live Demo
 
-(Will add after deployment)
+https://nitya-sales-dashboard.streamlit.app/
